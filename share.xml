@@ -1,13 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <VAST version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Ad id="12345">
     <InLine>
       <AdSystem version="1.0">FormBannerAd</AdSystem>
-      <AdTitle>Forma Yaptırma</AdTitle> 
+      <AdTitle>Forma Yaptirma</AdTitle> 
       <Impression><![CDATA[https://seninsiten.com/impression-track]]></Impression>
       <Creatives>
         <Creative>
           <Linear>
-            <Duration>00:00:05</Duration> <!-- Reklamın süresi -->
+            <Duration>00:00:05</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="image/jpeg" width="640" height="360">
                 <![CDATA[https://www.formanitasarla.com.tr/images/kampanya/banner1-resimJS-18.png]]> 
